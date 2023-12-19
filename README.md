@@ -7,9 +7,16 @@ Projeto disponibilizado pela DIO e proposta com a dinamica de aplicação dos co
 
 ![Detalhes dos Pokemons](https://i.imgur.com/8I0Jo04.png)
 
-### 📲⚙️ Projetado para varios dispositivos e ajustado dinamicamente.
 
+<h3 align="center"> 📲⚙️ Projetado para varios dispositivos e ajustado dinamicamente. </h3>
 
 <p align="center">
   <img width="371" height="820" src="https://i.imgur.com/YsibjEs.png">
 </p>
+
+<h3 align="center"> Uma visão geral do projeto </h3>
+
+<p align="center">
+  <img width="760" height="458" src="https://i.imgur.com/0Y5KJJg.png">
+</p>
+
